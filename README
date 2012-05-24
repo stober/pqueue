@@ -3,3 +3,5 @@ pqueue
 Author: Jeremy Stober
 Contact: stober@gmail.com
 Version: 0.1
+
+This is based on the recipe found in the Python documentation for heapq.
